@@ -1,0 +1,31 @@
+{
+"drivers":[
+{
+		"id" : 1,
+		"name" : "Taras",
+		"age" : "16",
+		"car" : {
+			"name" : "Peugeout",
+			"age" : "1"
+		}
+	},
+	{
+		"id" : 2,
+		"name" : "Igor",
+		"age" : "17",
+		"car" : {
+			"name" : "Nissan",
+			"age" : "12"
+		}
+	},
+	{
+		"id" : 3,
+		"name" : "Ivan",
+		"age" : "21",
+		"car" : {
+			"name" : "BMW",
+			"age" : "3"
+		}
+	}
+]
+}
